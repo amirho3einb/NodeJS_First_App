@@ -1,0 +1,23 @@
+{
+  "name": "understanding-the-basics",
+  "version": "1.0.0",
+  "description": "complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirho3einb/NodeJS_First_App.git"
+  },
+  "author": "Amirhossein Balagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirho3einb/NodeJS_First_App/issues"
+  },
+  "homepage": "https://github.com/amirho3einb/NodeJS_First_App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
